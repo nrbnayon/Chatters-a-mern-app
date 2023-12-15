@@ -79,24 +79,24 @@ Start the Client
 
 ### Authenticaton
 
-![](https://github.com/nrbnayon/Chatters-a-mern-app/master/screenshots/login.PNG)
-![](https://github.com/nrbnayon/Chatters-a-mern-app/master/screenshots/signup.PNG)
+![](https://github.com/nrbnayon/Chatters-a-mern-app/blob/main/screenshots/login.PNG)
+![](https://github.com/nrbnayon/Chatters-a-mern-app/blob/main/screenshots/signup.PNG)
 
 ### Real Time Chatting with Typing indicators
 
-![](https://github.com/nrbnayon/Chatters-a-mern-app/master/screenshots/chats-you-can-show.png.PNG)
+![](https://github.com/nrbnayon/Chatters-a-mern-app/blob/main/screenshots/chat%202%20user.png)
 
 ### One to One chat
 
-![](https://github.com/nrbnayon/Chatters-a-mern-app/master/screenshots/mainscreen.PNG)
+![](https://github.com/nrbnayon/Chatters-a-mern-app/blob/main/screenshots/Chats%20You%20Can%20show.png)
 
 ### Search Users
 
-![](https://github.com/nrbnayon/Chatters-a-mern-app/master/screenshots/search.PNG)
+![](https://github.com/nrbnayon/Chatters-a-mern-app/blob/main/screenshots/sarch.PNG)
 
 ### Create Group Chats
 
-![](https://github.com/nrbnayon/Chatters-a-mern-app/master/screenshots/new%20grp.PNG)
+![](https://github.com/nrbnayon/Chatters-a-mern-app/blob/main/screenshots/chat%202%20user.png)
 
 ### Notifications
 
@@ -104,7 +104,7 @@ Start the Client
 
 ### Add or Remove users from group
 
-![](https://github.com/nrbnayon/Chatters-a-mern-app/master/screenshots/add%20rem.PNG)
+![](https://github.com/nrbnayon/Chatters-a-mern-app/blob/main/screenshots/add%20rem.PNG)
 
 ### View Other user Profile
 
